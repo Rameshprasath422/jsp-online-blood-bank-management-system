@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+.container
+{
+	padding-top: 100px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+	border-radius:5px;
+	box-sizing:border-box;
+	align-items:center;
+	justify-content:center;
+}
+.topic
+{
+	padding:30px;
+	border:px solid Black;
+	border-radius:5px;
+	background-color:white;
+}
+body
+{
+	font-family:arial;
+	background-image:url("Home Page.jpg");
+	background-size:cover;
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+}
+form
+{
+	margin:auto;
+	padding:10px;
+	width:40%;
+	font-weight:bold;
+}
+.container input
+{
+	margin-bottom:10px;
+	justify-content:left;
+	
+}
+.p
+{
+	text-align:center;
+}
+.button
+{
+	text-align:center;
+	border-color:black;
+	width:300px;
+	height:200px;
+	padding-top:100px;
+}
